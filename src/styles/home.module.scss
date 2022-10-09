@@ -18,6 +18,8 @@
 
 .ctaTexts {
     max-width: 600px;
+    display: flex;
+    flex-direction: column;
 
     h1 {
         font-size: 3.5rem;
@@ -250,3 +252,4 @@
         }
     }
 }
+
